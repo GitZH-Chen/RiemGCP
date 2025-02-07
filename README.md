@@ -5,12 +5,20 @@
 # Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry
 
 <div align="center">
-    <img src="RiemGCP.jpg" width="800">
-</div>
-<div align="center">
-    <img src="PEM_LEM_distances.jpg" width="250">
+    <figure>
+        <img src="RiemGCP.jpg" width="800">
+        <figcaption>Figure 1: Illustration on the main postulations (A0 to A2) and empirical validations (B0 to B2).</figcaption>
+    </figure>
 </div>
 
+<br><br>  <!-- Add spacing between figures -->
+
+<div align="center">
+    <figure>
+        <img src="PEM_LEM_distances.jpg" width="250">
+        <figcaption>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different.</figcaption>
+    </figure>
+</div>
 
 ## Introduction
 This is the official code for our ICLR 2025 publication: *Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry*. 
