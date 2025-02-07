@@ -5,7 +5,8 @@
 # Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry
 
 [点击查看 PDF](./RiemGCP.pdf)
-<embed src="RiemGCP.pdf" width="800px" height="600px" />
+<iframe src="RiemGCP.pdf" width="100%" height="600px"></iframe>
+
 
 
 ## Introduction
