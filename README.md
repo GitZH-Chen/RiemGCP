@@ -31,7 +31,7 @@ Please check `requirements.txt` for the required packages.
 For the preparation of three FGVC datasets, please refer to [fast-MPN-COV](https://github.com/jiangtaoxie/fast-MPN-COV).
 
 ## Experiments
-You can find all the scripts to compare Pow-EMLR, Pow-TMLR, and ScalePow-EMLR in `experiments.sh`. 
+`experiments.sh` contains all the scripts to compare Pow-EMLR, Pow-TMLR, and ScalePow-EMLR on three FGVC datasets. 
 You can either execute all the experiments using `bash` or run each Python script individually.
 We also incorporate Chol-TMLR in `src/representation/LCMCOV.py`.
 
