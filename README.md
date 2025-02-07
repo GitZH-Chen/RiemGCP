@@ -1,4 +1,4 @@
-[//]: # ([<img src="https://img.shields.io/badge/arXiv-2409.19433-b31b1b"></img>]&#40;https://arxiv.org/abs/2409.19433&#41;)
+[<img src="https://img.shields.io/badge/arXiv-2407.10484-b31b1b"></img>](https://arxiv.org/abs/2407.10484)
 [<img src="https://img.shields.io/badge/OpenReview|forum-q1t0Lmvhty-8c1b13"></img>](https://openreview.net/forum?id=q1t0Lmvhty)
 [<img src="https://img.shields.io/badge/OpenReview|pdf-q1t0Lmvhty-8c1b13"></img>](https://openreview.net/pdf?id=q1t0Lmvhty)
 
