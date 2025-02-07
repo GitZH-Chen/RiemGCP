@@ -49,3 +49,7 @@ For the preparation of three FGVC datasets, please refer to [fast-MPN-COV](https
 You can either execute all the experiments using `bash` or run each Python script individually.
 We also incorporate Chol-TMLR in `src/representation/LCMCOV.py`.
 
+The tensorboard of the reproduced results are
+![air](Acc_Air.png)
+![cars](Acc_Cars.png)
+
