@@ -4,10 +4,7 @@
 
 # Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry
 
-[点击查看 PDF](./RiemGCP.pdf)
-<iframe src="RiemGCP.pdf" width="100%" height="600px"></iframe>
-
-
+![RiemGCP](RiemGCP.jpg)
 
 ## Introduction
 This is the official code for our ICLR 2025 publication: *Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry*. 
