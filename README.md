@@ -52,4 +52,5 @@ We also incorporate Chol-TMLR in `src/representation/LCMCOV.py`.
 The reproduced tensorboard results on the FGVC datasets:
 ![air](Acc_Air.png)
 ![cars](Acc_Cars.png)
+![birds](Acc_Birds.png)
 
