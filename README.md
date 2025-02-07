@@ -23,8 +23,6 @@ This code is based on [DifferentiableSVD](https://github.com/KingJamesSong/Diffe
 We also acknowledge [fast-MPN-COV](https://github.com/jiangtaoxie/fast-MPN-COV) from
 - Towards Faster Training of Global Covariance Pooling Networks by Iterative Matrix Square Root Normalization. [[Paper](https://arxiv.org/abs/1712.01034)]
 
-
-
 If you have any problem, please contact me via `ziheng_ch@163.com`.
 
 ## Implementation
