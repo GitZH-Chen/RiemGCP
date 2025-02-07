@@ -1,0 +1,38 @@
+defaults:
+  - _self_
+  - dataset: fgvc-aircraft
+  - representation: MPNCOV
+  - override hydra/launcher: joblib
+
+model:
+  arch: "resnet50"
+  pretrained: false
+  modeldir: null
+
+fit:
+  store_model_everyepoch: false
+  start_epoch: 0
+  momentum: 0.9
+  resume: True
+  evaluate: false
+  world_size: 1
+  dist_url: "tcp://224.66.41.62:23456"
+  dist_backend: "gloo"
+  seed: 42
+  gpu: null
+  workers: 8
+  is_writer: True
+
+hydra:
+  run:
+    dir: Results/${dataset.name}
+  sweep:
+    dir: Results/${dataset.name}
+    subdir: '.'
+  launcher:
+    n_jobs: -1
+  job_logging:
+    handlers:
+      file:
+        class: logging.FileHandler
+        filename: default.log

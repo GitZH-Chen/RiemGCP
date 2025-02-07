@@ -1,0 +1,10 @@
+torch
+torchvision
+graphviz
+matplotlib
+scipy
+numpy
+mpmath
+hydra-core
+hydra-joblib-launcher
+tensorboard

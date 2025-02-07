@@ -1,0 +1,17 @@
+# name of the dataset
+defaults:
+ - base_dataset
+ - _self_
+
+name: "fgvc-aircraft"
+training:
+    num_classes: 100
+    freezed_layer: 0
+    batch_size: 8
+    epochs: 50
+    lr: 5e-3
+    lr_method: "step"
+    lr_params: [21,50]
+    weight_decay: 1e-4
+    classifier_factor: 5
+    print_freq: 100

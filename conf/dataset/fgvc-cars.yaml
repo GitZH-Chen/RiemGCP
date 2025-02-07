@@ -1,0 +1,17 @@
+# name of the dataset
+defaults:
+ - base_dataset
+ - _self_
+
+name: "fgvc-cars"
+training:
+    num_classes: 196
+    freezed_layer: 0
+    batch_size: 10
+    epochs: 100
+    lr: 5e-2
+    lr_method: "step"
+    lr_params: [50,100]
+    weight_decay: 1e-4
+    classifier_factor: 10
+    print_freq: 100

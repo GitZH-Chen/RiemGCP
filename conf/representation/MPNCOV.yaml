@@ -1,0 +1,3 @@
+params:
+    representation: "MPNCOV"
+    transformed_mode: "PowTMLR" #PowTMLR,ScalePowEMLR,PowEMLR
