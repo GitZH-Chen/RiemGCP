@@ -13,12 +13,11 @@
 
 <br><br>  <!-- Add spacing between figures -->
 
-<div align="center">
-    <figure>
-        <img src="PEM_LEM_distances.jpg" width="400">
-        <figcaption>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different.</figcaption>
-    </figure>
-</div>
+<p align="center">
+    <img src="PEM_LEM_distances.jpg" width="250">
+</p>
+<p align="center"><em>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different.</em></p>
+
 
 
 ## Introduction
