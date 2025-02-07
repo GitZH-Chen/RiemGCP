@@ -6,6 +6,7 @@
 
 ## Introduction
 This is the official code for our ICLR 2025 publication: *Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry*. 
+For the first time, this work reveals that matrix functions in GCP implicitly respect Riemannian classifiers and explains the rationale behind using Euclidean classifiers on SPD matrices after applying the matrix power.
 
 If you find this project helpful, please consider citing us as follows:
 ```bib
