@@ -16,7 +16,7 @@
 <p align="center">
     <img src="PEM_LEM_distances.jpg" width="250">
 </p>
-<p align="center"><em>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different.</em></p>
+<p align="center"><em>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different (256 x 256 SPD matrices).</em></p>
 
 
 
