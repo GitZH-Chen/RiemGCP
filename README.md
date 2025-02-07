@@ -5,7 +5,7 @@
 # Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry
 
 <div align="center">
-    <img src="RiemGCP.jpg" width="1000">
+    <img src="RiemGCP.jpg" width="800">
 </div>
 <div align="center">
     <img src="PEM_LEM_distances.jpg" width="250">
