@@ -18,8 +18,6 @@
 </p>
 <p align="center"><em>Figure 2: The distances under Power Euclidean Metric (PEM) and Log-Euclidean Metric (LEM) are significantly different (256 x 256 SPD matrices).</em></p>
 
-
-
 ## Introduction
 This is the official code for our ICLR 2025 publication: *Understanding Matrix Function Normalizations in Covariance Pooling through the Lens of Riemannian Geometry*. 
 For the first time, this work reveals that matrix functions in GCP implicitly respect Riemannian classifiers and explains the rationale behind using Euclidean classifiers on SPD matrices after applying the matrix power.
